@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2025-11-15T01:26:48",
+    "trade_mode": "live",
+    "decision_model": "deepseek",
+    "final_decision": {},
+    "results": []
+  },
+  {
+    "timestamp": "2025-11-15T01:28:15",
+    "trade_mode": "live",
+    "decision_model": "deepseek",
+    "final_decision": {},
+    "results": []
+  },
+  {
+    "timestamp": "2025-11-15T01:29:32",
+    "trade_mode": "live",
+    "decision_model": "deepseek",
+    "final_decision": {},
+    "results": []
+  },
+  {
+    "timestamp": "2025-11-15T01:30:54",
+    "trade_mode": "live",
+    "decision_model": "deepseek",
+    "final_decision": {},
+    "results": []
+  },
+  {
+    "timestamp": "2025-11-15T01:32:11",
+    "trade_mode": "live",
+    "decision_model": "deepseek",
+    "final_decision": {},
+    "results": []
+  },
+  {
+    "timestamp": "2025-11-15T01:33:42",
+    "trade_mode": "live",
+    "decision_model": "deepseek",
+    "final_decision": {},
+    "results": []
+  },
+  {
+    "timestamp": "2025-11-15T01:34:17",
+    "trade_mode": "live",
+    "decision_model": "deepseek",
+    "final_decision": {},
+    "results": []
+  },
+  {
+    "timestamp": "2025-11-15T01:35:42",
+    "trade_mode": "live",
+    "decision_model": "deepseek",
+    "final_decision": {},
+    "results": []
+  },
+  {
+    "timestamp": "2025-11-15T01:37:14",
+    "trade_mode": "live",
+    "decision_model": "deepseek",
+    "final_decision": {},
+    "results": []
+  },
+  {
+    "timestamp": "2025-11-15T01:38:38",
+    "trade_mode": "live",
+    "decision_model": "deepseek",
+    "final_decision": {},
+    "results": []
+  }
+]
